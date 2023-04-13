@@ -1,0 +1,16 @@
+gender == 0: Trái Đất
+gender == 1: Namec
+gender == 2: Xayda
+
+
+Add Clan to DB
+ClanDAO.create(newClan);
+
+
+// up tiem nang suc manh
+
+
+//GOKU DOI YARDRAT
+
+
+mọi menu nằm trong NPC đều nằm trong Menu.java
